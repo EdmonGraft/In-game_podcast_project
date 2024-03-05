@@ -96,12 +96,10 @@ body{
   }
   
   .video{
-    border: 1px solid #141414FF;
-    padding: 1px 200px;
-    margin-left: 12.5rem;
-    margin-right: 12.5rem;
+    display: flex;
+    align-content: center;
+    justify-content: center;
   }
-  
   
   /*Description Section */
   
